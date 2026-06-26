@@ -1,6 +1,4 @@
-![preview](https://raw.githubusercontent.com/Kiya682/meccha-chameleon-ecore-plus/main/preview.svg)
-
-# Meccha Chameleon Game Trainer 🦎✨
+# Meccha Chameleon Game Trainer Ecore 🦎✨
 
 Welcome to the **Meccha Chameleon Game Trainer** — a next-generation, adaptive companion for players who seek to master the art of transformation in the vibrant world of *Meccha Chameleon*. This is not a mere tool; it is a **symbiotic intelligence** that learns your playstyle, adapts to your rhythm, and enhances your journey through the game’s ever-shifting landscapes. Think of it as a **digital chameleon** that changes its strategies to match your needs, allowing you to experience the game from a perspective of elegance and control.
 
